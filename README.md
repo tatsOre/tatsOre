@@ -1,5 +1,5 @@
-Hello Universe.
+<h1>Hello Universe.</h1>
 
-[![Tatiana's github stats](https://github-readme-stats.vercel.app/api?username=tatsOre)](https://github.com/tatsOre/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatsOre&show_icons=true" alt="Github stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsOre&layout=compact)](https://github.com/tatsOre/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsOre&layout=compact&langs_count=6" alt="Top Langs"/>
